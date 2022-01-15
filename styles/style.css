@@ -1,0 +1,28 @@
+.main-menu{
+    width: 300px;
+    margin-top: 0px;
+    margin-bottom: 30px;
+}
+.header-nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: baseline;
+}
+.header-nav nav ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-between ;
+    width: 650px;
+
+}
+.header-nav nav ul li a{
+    text-decoration: none;
+}
+/* logo portion */
+.section-2 ul{
+    display: flex;
+    justify-content: space-evenly;
+}
+.section-2 ul li{
+    list-style: none;
+}
